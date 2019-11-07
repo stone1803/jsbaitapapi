@@ -12,7 +12,7 @@ getEle("btnThemNguoiDung").addEventListener("click", function() {
     document.getElementsByClassName("modal-footer")[0].innerHTML = footer;
 });
 
-function them1() {
+function themlist() {
     console.log;
 }
 //Them Nguoi Dung
