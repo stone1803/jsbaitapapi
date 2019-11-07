@@ -12,9 +12,16 @@ getEle("btnThemNguoiDung").addEventListener("click", function() {
     document.getElementsByClassName("modal-footer")[0].innerHTML = footer;
 });
 
+<<<<<<< HEAD
 function themlist() {
     console.log;
 }
+=======
+function themnguoiGit() {
+    console.log("22222");
+}
+
+>>>>>>> master
 //Them Nguoi Dung
 function themNguoiDung() {
     var taiKhoan = getEle("TaiKhoan").value;
